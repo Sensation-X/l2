@@ -1,0 +1,335 @@
+{
+ "seen": {
+  "https://ru.4game.ru/articles/": {
+   "title": "ММО игры на платформе Фогейм",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/aion-classic-3-goda-v-rossii/": {
+   "title": "Ностальгия и праздничные ивенты: Aion Classic отмечает третий день рождения в России 11 сентября 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/itogi-pbl-2026-aoexe-chempioni/": {
+   "title": "Команда AoeXe выиграла турнир Point Blank League 2026. Итоги LAN-финала 20 августа 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/celestial-destiny-l2-essence/": {
+   "title": "Улучшение классов и Битва серверов: все об обновлении Celestial Destiny в Lineage 2 Essence 29 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/antharas-rising-l2-legacy/": {
+   "title": "Новые правила охоты на Антараса: все об обновлении Antharas Rising в Lineage 2 Legacy 24 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/lineage2-obnovlenie-throne/": {
+   "title": "В Lineage 2 вышло крупное обновление Throne. Все подробности 16 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/ohota-gm-event/": {
+   "title": "Охота за сокровищами началась: масштабный GM-ивент с подарками проходит в Aion Classic 09 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/promokody-25-let-hobby-world/": {
+   "title": "Специальные промокоды на Фогейме в честь 25-летия Hobby World 01 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/bns-neo-ostrov-hranitelei/": {
+   "title": "Русская озвучка и первый уникальный класс: В Blade & Soul NEO вышло большое обновление 29 мая 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/podarochnie-nabori-2026/": {
+   "title": "Весенние подарки: встречаем праздники на Фогейме вместе с приятными бонусами 09 мая 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/obnovlenie-ostrov-sakuri-l2/": {
+   "title": "Добро пожаловать на Остров Сакуры: все об обновлении Sakura Isle в основной версии Lineage 2 02 апреля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/aoexe-chempioni-pbic-2026/": {
+   "title": "AoeXe стали трехкратными чемпионами мира по шутеру Point Blank 31 марта 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/news/bns-neo-belie-gori-vtoraya-chast/": {
+   "title": "Ледяная пещера, PvP-локация, ивенты и подарки — все о второй части обновления «Белые горы» в Blade & Soul NEO 27 марта 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: новости"
+  },
+  "https://ru.4game.ru/articles/guides/l2-kak-activirovat-promocode/": {
+   "title": "Как активировать промокод в Lineage 2? 07 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/aionclassic-kak-activirovat-promocode/": {
+   "title": "Как активировать промокод в Aion Classic? 07 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/bnsneo-kak-activirovat-promocode/": {
+   "title": "Как активировать промокод в Blade & Soul NEO? 08 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/pb-kak-activirovat-promocode/": {
+   "title": "Как активировать промокод в Point Blank? 08 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/berserk-kak-activirovat-promocode/": {
+   "title": "Как активировать промокод в Берсерк Герои Онлайн? 08 июля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/gaid-berserk-geroi-online/": {
+   "title": "Полный гайд по «Берсерк Герои Онлайн»: правила, карты, механики и советы 29 июня 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/servera-fogeim/": {
+   "title": "Официальные игровые серверы на Фогейме: полный список и ответы на частые вопросы 08 апреля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/o-kompanii-fogame/": {
+   "title": "Как устроена компания Фогейм: от культовых игр до развития индустрии 30 марта 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/snaryajenie-pb/": {
+   "title": "Снаряжение Point Blank: все о видах и коллекциях 03 марта 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/obzor-belie-gori-bns-neo/": {
+   "title": "Путь в Белые горы открыт: все об обновлении Blade & Soul NEO 26 февраля 2026",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/crimson-desert-obzor-faq/": {
+   "title": "Crimson Desert: обзор предстоящего экшена от создателей Black Desert Online 22 октября 2025",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://ru.4game.ru/articles/guides/simfonia-anime-acia/": {
+   "title": "Условия акции «СИМФОНИЯ АНИМЕ» 03 октября 2025",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: гайды"
+  },
+  "https://vk.ru/lineage2official": {
+   "title": "https://vk.ru/lineage2official",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: патчноуты Essence"
+  },
+  "https://discord.gg/l2essence": {
+   "title": "https://discord.gg/l2essence",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: патчноуты Essence"
+  },
+  "https://l2central.info/essence/updates/": {
+   "title": "https://l2central.info/essence/updates/",
+   "first_seen": "2026-09-12 03:53",
+   "source": "4game: патчноуты Essence"
+  },
+  "https://ru.4game.com/s2s/essence_shandybin": {
+   "title": "Играть в Lineage 2 Essence",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://ru.4game.com/s2s/legacy_l2cc": {
+   "title": "Играть в Lineage 2 Legacy",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://ru.4game.com/s2s/lineage2_l2cc": {
+   "title": "Играть в Lineage 2 Main",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/index/tablica-opyta-lineage-2-essence/0-10": {
+   "title": "Таблица опыта Lineage 2 Essence",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/index/tablica-opyta-lineage-2-classic/0-11": {
+   "title": "Таблица опыта Lineage 2 Classic",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/index/tablica_opyta_lineage_2_main/0-16": {
+   "title": "Таблица опыта Lineage 2 Main",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/code4game": {
+   "title": "Lineage 2 Essence и Code4game",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/materialnaja_pomoshh_proektu/2020-11-14-769": {
+   "title": "Материальная помощь проекту",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/uchastvujte_v_postojannykh_rozygryshakh/2020-01-21-217": {
+   "title": "Участвуйте в постоянных розыгрышах!",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/soobshhajte_nam_o_novostjakh/2020-01-21-216": {
+   "title": "Сообщайте нам о новостях",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/novosti_lineage_2_essence/1-0-1": {
+   "title": "Новости Lineage 2 Essence",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/stali_izvestny_daty_osennikh_obnovlenij_dlja_vsekh_versij_lineage_2_v_rossii/2026-09-11-2953": {
+   "title": "Стали известны даты осенних обновлений для всех версий Lineage 2 в России",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/novosti_project_eva/1-0-8": {
+   "title": "Новости Special Project",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/v_lineage_2_special_project_pojavilsja_pervyj_klan_12_go_urovnja/2026-09-10-2952": {
+   "title": "В Lineage 2 Special Project появился первый клан 12-го уровня",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/obnovlenie_lineage_2_essence_9_09_2026_chjornye_kupony_bonus_100_opyta_i_izmenenija_citadeli_kelbima/2026-09-08-2951": {
+   "title": "Обновление Lineage 2 Essence 9.09.2026 — Чёрные купоны, бонус +100% опыта и изменения Цитадели Кельбима",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/v_oficialnom_telegram_kanale_lineage_2_russia_startoval_pervyj_rozygrysh_firmennogo_mercha/2026-09-07-2950": {
+   "title": "В официальном Telegram-канале Lineage 2 Russia стартовал первый розыгрыш фирменного мерча",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/novosti_lineage_2_main/1-0-7": {
+   "title": "Новости Lineage 2 Main",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/ncsoft_anonsirovala_novyj_unikalnyj_server_lineage_2_main_s_uskorennoj_prokachkoj_i_povyshennymi_nagradami/2026-09-07-2949": {
+   "title": "NCSoft анонсировала новый уникальный сервер Lineage 2 Main с ускоренной прокачкой и повышенными наградами",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/otkrytie_novogo_servera_lineage_2_v_2026_godu_stoit_li_zhdat_novyj_igrovoj_mir/2026-09-06-2937": {
+   "title": "Открытие нового сервера Lineage 2 в 2026 году: стоит ли ждать новый игровой мир?",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/v_istorii_lineage_2_special_project_pojavilsja_vtoroj_personazh_95_urovnja/2026-09-05-2948": {
+   "title": "В истории Lineage 2 Special Project появился второй персонаж 95 уровня",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/novosti_lineage_2_classic/1-0-4": {
+   "title": "Новости Lineage 2 Classic",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/v_korejskij_magazin_lineage_2_legacy_dobavili_15_oruzhie_monarkha_lda_i_12_dospekhi_zashhity/2026-09-05-2947": {
+   "title": "В корейский магазин Lineage 2 Legacy добавили +15 Оружие Монарха Льда и +12 Доспехи Защиты",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/igroki_ocenili_novuju_funkciju_bystrogo_perepodkljuchenija_v_lineage_2_essence_i_special_project/2026-09-04-2946": {
+   "title": "Игроки оценили новую функцию быстрого переподключения в Lineage 2 Essence и Special Project",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/pojas_fafuriona_v_lineage_2_essence_kak_poluchit_kharakteristiki_i_shansy_modifikacii_novogo_predmeta/2026-09-03-2945": {
+   "title": "Пояс Фафуриона в Lineage 2 Essence — как получить, характеристики и шансы модификации нового предмета",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/v_lineage_2_essence_i_special_project_dobavili_funkciju_bystrogo_perepodkljuchenija/2026-09-02-2944": {
+   "title": "В Lineage 2 Essence и Special Project добавили функцию быстрого переподключения",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/v_lineage_2_nastupila_osen_giran_preobrazilsja_k_novomu_sezonu/2026-09-01-2943": {
+   "title": "В Lineage 2 наступила осень: Гиран преобразился к новому сезону",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/intervju_lineage_2_essence/1-0-2": {
+   "title": "Интервью Lineage 2 Essence",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/video_lineage_2_essence/1-0-3": {
+   "title": "Видео Lineage 2 Essence",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/intervju_lineage_2_classic/1-0-5": {
+   "title": "Интервью Lineage 2 Classic",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/video_lineage_2_classic/1-0-6": {
+   "title": "Видео Lineage 2 Classic",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/intervju_s_le0n_donat_okolo_6_000_000_rublej/2020-02-12-258": {
+   "title": "Интервью с LE0N, донат около 6 000 000 рублей.",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/ushjol_iz_zhizni_bogdan_bagirov_geksagen/2022-04-08-1551": {
+   "title": "Ушёл из жизни Богдан Багиров (Geksagen)",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/ehffektivnyj_start_v_lineage_2_essence_gajd_dlja_novichkov/2021-12-12-1334": {
+   "title": "Эффективный старт в Lineage 2 Essence, гайд для новичков",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/intervju_s_beh9i_top_1_po_opytu_na_silver_donat_3_500_000_rublej/2019-11-21-117": {
+   "title": "Интервью с BEH9I. Топ-1 по опыту на Silver. Донат ~3 500 000 р...",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/news/obshhij_onlajn_rossijskikh_oficialnykh_serverov_lineage_2_sostavljaet_okolo_40000/2023-12-25-2249": {
+   "title": "Общий онлайн российских официальных серверов Lineage 2 составл...",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/bonus": {
+   "title": "Регистрируйся по реферальным ссылкам и получай бонусы!",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/": {
+   "title": "Lineage 2 — новости, онлайн серверов, скачать клиент",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  },
+  "https://lineage2.cc/index/portal-lineage2-command-channel/0-2": {
+   "title": "Информация о нашем портале",
+   "first_seen": "2026-09-12 03:53",
+   "source": "lineage2.cc: новости"
+  }
+ },
+ "last_run": "2026-09-12 03:53:33"
+}
