@@ -1,0 +1,7 @@
+config/
+config/secrets.json
+.env
+*.key
+*.log
+__pycache__/
+site/dist/site/dist/

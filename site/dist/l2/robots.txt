@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hurmych.ru/l2/sitemap.xml
